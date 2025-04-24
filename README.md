@@ -126,3 +126,8 @@ cd build/linux_release
 cmake -DCMAKE_BUILD_TYPE=Release ../..
 make
 ```
+
+## Amir's Notes
+
+Make sure you have initialized an environment variable ANDROID_NDK_PATH which points to the NDK
+installation.

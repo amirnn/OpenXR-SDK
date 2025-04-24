@@ -89,5 +89,10 @@ clang-format-patches/
 /*.log
 /*.pdf
 
+## Added by Amir
+/out/
+compile_commands.json
+
 # Key stores
 *.jks
+
